@@ -1,8 +1,5 @@
 # netflix-datawarehouse-ML
 ## Motive
-Exercise DWH end-to-end project in TSQL.
-Putting the DWH into the cloud service (AWS).
-After the data is prepared, next step is to create ML forecast with randomforest.
-Last but not least making package into docker and replacing it into ECS or EKS (Elastic Container Service)
+The motive of this project are to: create DWH with TSQL, Relocating the project from local to cloud service (AWS), preparing ML environment in order to forecast, last but not least making package with docker and sending it to ECS or EKS hard to tell at the beginning but we will see as fast as the project goes.
 
 READ ME IN PROGRESS!!
