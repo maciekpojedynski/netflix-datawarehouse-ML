@@ -10,7 +10,7 @@ Warning:
   Tables are truncated and reloaded fully with each run.
   To avoid data conversion errors, data types are deliberately kept wide (e.g. NVARCHAR).
 */
-IF OBJECT_ID('recommendation_logs', 'U') IS NOT NULL
+IF OBJECT_ID('bronze.recommendation_logs', 'U') IS NOT NULL
 	DROP TABLE bronze.recommendation_logs
 CREATE TABLE bronze.recommendation_logs (
 	recommendation_id NVARCHAR(50),
