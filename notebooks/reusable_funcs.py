@@ -13,13 +13,12 @@ def impute_data_null_to_1(df: pd.DataFrame, column_name: str) -> pd.DataFrame:
     Returns:
     pd.DataFrame: The DataFrame with imputed values.
     """
-    df_out = df.copy()
     # 1. Create binary indicator for missing values
-    df_out[f'{column_name}_is_missing'] = df[column_name].isna().astype(int)
+    df[f'{column_name}_is_missing'] = df[column_name].isna().astype(int)
 
     # 2. Impute missing values with 1
-    df_out[column_name] = df[column_name].fillna(1)
-    return df_out
+    df[column_name] = df[column_name].fillna(1)
+    return df
 
 def impute_data_null_to_median(df: pd.DataFrame, column_name: str) -> pd.DataFrame:
     """
@@ -32,8 +31,7 @@ def impute_data_null_to_median(df: pd.DataFrame, column_name: str) -> pd.DataFra
     Returns:
     pd.DataFrame: The DataFrame with imputed values.
     """
-    df_out = df.copy()
-    median_value = df_out[column_name].median()
-    df_out[f'{column_name}_is_missing'] = df_out[column_name].isna().astype(int)
-    df_out[column_name] = df_out[column_name].fillna(median_value)
-    return df_out
+    median_value = df[column_name].median()
+    df[f'{column_name}_is_missing'] = df[column_name].isna().astype(int)
+    df[column_name] = df[column_name].fillna(median_value)
+    return df
