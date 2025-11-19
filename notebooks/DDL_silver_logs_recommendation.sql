@@ -1,6 +1,6 @@
-IF OBJECT_ID('silver.search_logs','U') IS NOT NULL
-	DROP TABLE silver.search_logs;
-CREATE TABLE silver.search_logs(
+IF OBJECT_ID('silver.logs_recommendation','U') IS NOT NULL
+	DROP TABLE silver.logs_recommendation;
+CREATE TABLE silver.logs_recommendation(
 	recommendation_id NVARCHAR(255),
 	user_id NVARCHAR(255),
 	movie_id NVARCHAR(255),
