@@ -1,0 +1,212 @@
+review_000051,user_05377,movie_0238,2,2025-11-18,Laptop,True,1.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_000446,user_06625,movie_0015,2,2024-08-11,Tablet,True,4.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.3,0,0
+review_000552,user_00873,movie_0358,2,2024-10-18,Tablet,True,1.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.041,0,0
+review_000557,user_01839,movie_0345,2,2024-01-05,Tablet,False,2.0,12.0,"Boring storyline, couldn't finish watching.",negative,0.13,0,0
+review_000590,user_02594,movie_0533,1,2024-05-30,Tablet,True,2.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.245,0,0
+review_000606,user_05072,movie_0482,2,2025-07-06,Mobile,False,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.015,0,0
+review_000609,user_03468,movie_0707,1,2024-10-23,Mobile,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.233,0,0
+review_000715,user_04570,movie_0828,2,2024-09-27,Mobile,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_000805,user_03765,movie_0257,2,2024-08-04,Mobile,True,1.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.16,0,0
+review_000825,user_04221,movie_0508,2,2025-08-30,Tablet,True,1.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.208,0,0
+review_000894,user_00002,movie_0113,2,2025-09-12,Laptop,True,3.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.196,0,0
+review_000929,user_00868,movie_0678,2,2024-03-01,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.316,0,0
+review_001147,user_07251,movie_0437,2,2025-01-29,Tablet,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.123,0,0
+review_001177,user_01276,movie_0113,1,2025-04-09,Mobile,True,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.058,0,0
+review_001262,user_09879,movie_0865,1,2025-10-27,Smart TV,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.278,0,0
+review_001300,user_02055,movie_0299,2,2024-03-06,Mobile,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.137,0,0
+review_001452,user_07180,movie_0854,1,2025-04-12,Smart TV,True,5.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.387,0,0
+review_001503,user_05415,movie_0204,2,2025-12-22,Mobile,False,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.214,0,0
+review_001750,user_03516,movie_0669,2,2025-03-28,Laptop,False,1.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.21,0,0
+review_001797,user_04870,movie_0073,2,2025-04-02,Laptop,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.234,0,0
+review_001901,user_00569,movie_0484,1,2024-02-03,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.254,1,1
+review_001942,user_03586,movie_0122,2,2025-07-02,Mobile,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.302,0,0
+review_002157,user_04949,movie_0828,2,2025-10-01,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.169,1,1
+review_002372,user_09576,movie_0173,2,2024-06-25,Mobile,True,1.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.335,0,0
+review_002401,user_08510,movie_0675,2,2025-03-13,Mobile,True,2.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.204,0,0
+review_002496,user_05957,movie_0850,1,2025-06-26,Mobile,True,2.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.252,0,0
+review_002587,user_04603,movie_0015,2,2024-08-06,Tablet,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.208,0,0
+review_002624,user_02979,movie_0897,2,2024-02-10,Tablet,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.145,0,0
+review_002741,user_09696,movie_0253,2,2024-08-24,Tablet,False,3.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_002797,user_09266,movie_0246,2,2025-08-13,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_002933,user_08849,movie_0680,2,2025-07-12,Mobile,True,1.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.07,0,0
+review_002972,user_08146,movie_0110,2,2024-12-16,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.233,1,1
+review_003099,user_01056,movie_0215,1,2025-03-30,Tablet,True,4.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.202,0,0
+review_003260,user_06498,movie_0629,1,2024-05-29,Tablet,True,3.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.015,0,0
+review_003264,user_02011,movie_0757,1,2025-04-18,Smart TV,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.205,0,0
+review_003286,user_02248,movie_0379,2,2024-12-08,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.152,1,1
+review_003370,user_04747,movie_0269,2,2024-01-24,Smart TV,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.15,0,0
+review_003444,user_04636,movie_0812,1,2025-11-22,Smart TV,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.085,0,0
+review_003461,user_01649,movie_0685,2,2025-03-02,Smart TV,False,1.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.331,0,0
+review_003470,user_01089,movie_0790,1,2025-09-22,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_003636,user_01932,movie_0861,1,2024-03-03,Smart TV,False,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.224,0,0
+review_003649,user_05957,movie_0364,2,2024-02-13,Mobile,True,2.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.298,0,0
+review_003680,user_05894,movie_0291,2,2024-05-25,Laptop,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.136,0,0
+review_003704,user_05572,movie_0635,2,2024-08-21,Mobile,True,2.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.314,0,0
+review_003844,user_00474,movie_0808,2,2024-01-18,Mobile,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.231,0,0
+review_003850,user_02175,movie_0664,2,2024-11-17,Laptop,True,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.196,0,0
+review_003871,user_02336,movie_0685,2,2024-01-03,Smart TV,True,6.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.258,0,0
+review_003911,user_02188,movie_0204,2,2025-10-24,Mobile,True,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.37,0,0
+review_003924,user_09554,movie_0380,2,2024-09-21,Laptop,True,4.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.388,0,0
+review_003951,user_09605,movie_0097,2,2024-03-18,Laptop,True,1.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.281,0,0
+review_004157,user_02814,movie_0056,2,2025-05-30,Laptop,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.106,0,0
+review_004171,user_04590,movie_0023,2,2025-12-07,Smart TV,True,6.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.092,0,0
+review_004268,user_04920,movie_0588,2,2025-07-04,Laptop,True,9.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.267,0,0
+review_004287,user_05766,movie_0585,2,2025-12-23,Laptop,False,3.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.084,0,0
+review_004442,user_06277,movie_0430,2,2024-07-06,Laptop,False,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.233,0,0
+review_004494,user_05259,movie_0868,1,2024-09-11,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.052,0,0
+review_004648,user_06620,movie_0868,2,2024-08-09,Mobile,True,1.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.278,0,0
+review_004868,user_07684,movie_0733,2,2024-09-05,Laptop,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.091,0,0
+review_004901,user_05043,movie_0354,2,2024-03-09,Tablet,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.136,0,0
+review_004991,user_01273,movie_0595,2,2024-10-09,Tablet,True,5.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.117,0,0
+review_005001,user_00299,movie_0232,2,2025-06-26,Laptop,True,0.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.13,0,0
+review_005028,user_07643,movie_0176,1,2024-05-24,Smart TV,True,3.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.374,0,0
+review_005040,user_07100,movie_0687,2,2024-01-11,Mobile,True,2.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.217,0,0
+review_005075,user_00885,movie_0291,1,2024-11-17,Mobile,True,1.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_005120,user_01382,movie_0813,1,2025-01-31,Mobile,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.359,0,0
+review_005245,user_04366,movie_0019,1,2024-10-04,Tablet,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.198,1,1
+review_005251,user_03355,movie_0628,1,2024-07-21,Tablet,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.133,0,0
+review_005290,user_00961,movie_0017,2,2025-04-07,Smart TV,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.262,0,0
+review_005291,user_04120,movie_0698,1,2024-08-29,Mobile,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.285,0,0
+review_005401,user_00336,movie_0022,2,2025-10-03,Tablet,False,5.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.134,0,0
+review_005430,user_04740,movie_0082,1,2025-11-02,Smart TV,True,2.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.272,0,0
+review_005506,user_09707,movie_0961,1,2024-12-16,Mobile,True,2.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.033,0,0
+review_005530,user_08234,movie_0395,2,2025-11-26,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.098,0,0
+review_005541,user_02962,movie_0870,2,2024-05-23,Laptop,False,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.114,0,0
+review_005572,user_00727,movie_0178,1,2025-10-07,Smart TV,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.174,0,0
+review_005638,user_07725,movie_0204,1,2025-12-18,Mobile,False,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.281,0,0
+review_005860,user_04423,movie_0402,1,2024-03-31,Tablet,True,4.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.125,0,0
+review_005867,user_03826,movie_0926,2,2025-02-17,Tablet,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.064,1,1
+review_005888,user_06004,movie_0778,1,2025-05-02,Mobile,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.079,0,0
+review_005904,user_01146,movie_0755,2,2025-04-13,Tablet,True,4.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.204,0,0
+review_006075,user_02702,movie_0621,2,2025-03-02,Laptop,True,2.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.274,0,0
+review_006078,user_07731,movie_0488,1,2024-11-20,Tablet,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.352,1,1
+review_006089,user_05542,movie_0413,1,2025-12-10,Tablet,False,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.035,0,0
+review_006154,user_03968,movie_0380,2,2024-04-11,Mobile,True,2.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.398,0,0
+review_006156,user_00665,movie_0166,1,2024-03-27,Laptop,False,6.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.211,0,0
+review_006267,user_02812,movie_0786,2,2025-01-16,Laptop,False,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.281,0,0
+review_006344,user_00928,movie_0678,2,2024-10-08,Smart TV,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.127,0,0
+review_006357,user_03694,movie_0106,1,2025-03-02,Smart TV,True,1.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.206,0,0
+review_006359,user_08302,movie_0235,2,2025-04-27,Smart TV,False,3.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.399,0,0
+review_006371,user_09404,movie_0133,2,2025-02-06,Laptop,False,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.36,0,0
+review_006859,user_08625,movie_0629,1,2025-12-18,Smart TV,True,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.357,0,0
+review_007021,user_03928,movie_0827,1,2024-08-03,Laptop,False,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.083,1,1
+review_007046,user_08938,movie_0341,2,2025-02-12,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_007091,user_03446,movie_0948,2,2024-07-18,Mobile,False,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.155,0,0
+review_007184,user_09201,movie_0273,1,2025-11-16,Mobile,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_007251,user_04211,movie_0397,1,2024-07-18,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_007268,user_03292,movie_0036,2,2024-07-24,Laptop,True,1.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.37,0,0
+review_007310,user_04236,movie_0723,1,2024-01-12,Tablet,False,4.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.206,0,0
+review_007479,user_09109,movie_0671,2,2024-03-06,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.381,1,1
+review_007607,user_02375,movie_0777,1,2025-08-06,Smart TV,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.11,0,0
+review_007620,user_08398,movie_0063,2,2025-09-04,Mobile,True,2.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.078,0,0
+review_007680,user_02200,movie_0765,2,2024-02-11,Smart TV,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.219,0,0
+review_007684,user_07894,movie_0250,1,2024-07-15,Laptop,False,1.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.03,0,0
+review_007820,user_06704,movie_0301,2,2024-05-03,Tablet,True,2.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.266,0,0
+review_007912,user_02762,movie_0236,1,2024-08-21,Tablet,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.058,0,0
+review_007933,user_03179,movie_0095,2,2024-01-01,Tablet,True,3.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.149,0,0
+review_008000,user_00533,movie_0926,2,2024-11-13,Mobile,True,6.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.206,0,0
+review_008106,user_00760,movie_0925,1,2024-07-07,Mobile,True,0.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.384,0,0
+review_008130,user_06518,movie_0682,2,2024-05-17,Mobile,True,0.0,1.0,"Boring storyline, couldn't finish watching.",negative,0.306,0,0
+review_008139,user_02303,movie_0037,2,2024-07-23,Tablet,False,2.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.286,0,0
+review_008171,user_05897,movie_0547,1,2025-08-02,Laptop,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.26,0,0
+review_008183,user_01980,movie_0317,1,2025-05-25,Tablet,True,3.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.136,0,0
+review_008288,user_04926,movie_0639,1,2024-06-25,Mobile,False,2.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.339,0,0
+review_008347,user_09386,movie_0387,2,2024-01-17,Mobile,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.303,0,0
+review_008406,user_06087,movie_0255,2,2025-11-21,Smart TV,False,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.247,0,0
+review_008462,user_02368,movie_0557,2,2025-08-21,Laptop,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.264,0,0
+review_008571,user_06694,movie_0743,2,2025-08-31,Mobile,True,2.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.296,0,0
+review_008652,user_01772,movie_0784,2,2025-06-06,Smart TV,True,1.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.326,0,0
+review_008700,user_02270,movie_0033,1,2025-07-29,Tablet,False,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.162,1,1
+review_008921,user_03768,movie_0689,2,2025-03-03,Tablet,True,3.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.024,0,0
+review_008973,user_09590,movie_0613,2,2025-10-26,Smart TV,True,2.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.049,0,0
+review_009065,user_07869,movie_0806,2,2024-04-05,Laptop,True,0.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.081,0,0
+review_009103,user_03336,movie_0009,1,2025-08-26,Laptop,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.276,0,0
+review_009125,user_08586,movie_0307,1,2024-05-14,Smart TV,False,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.17,1,1
+review_009339,user_01452,movie_0700,2,2024-03-30,Mobile,False,2.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.093,0,0
+review_009458,user_08537,movie_0834,2,2024-11-06,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.142,1,1
+review_009472,user_03715,movie_0688,1,2024-08-31,Tablet,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.221,1,1
+review_009576,user_05784,movie_0397,1,2024-03-10,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.354,0,0
+review_009597,user_08863,movie_0836,2,2025-05-31,Mobile,True,5.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.263,0,0
+review_009614,user_01579,movie_0946,2,2024-04-30,Smart TV,False,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.06,0,0
+review_009703,user_06658,movie_0003,2,2025-03-15,Tablet,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.204,0,0
+review_009718,user_00687,movie_0518,2,2025-11-18,Smart TV,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.186,0,0
+review_009781,user_06937,movie_0314,2,2025-02-21,Tablet,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.26,0,0
+review_009825,user_00093,movie_0698,2,2025-07-26,Laptop,False,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.26,0,0
+review_009909,user_03435,movie_0072,2,2024-10-17,Smart TV,True,2.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.203,0,0
+review_009932,user_04915,movie_0738,2,2024-10-20,Smart TV,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.005,0,0
+review_010027,user_01123,movie_0897,2,2025-12-31,Laptop,False,0.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.083,0,0
+review_010125,user_00617,movie_0994,1,2025-07-27,Mobile,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.066,0,0
+review_010318,user_05430,movie_0073,1,2024-03-15,Smart TV,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.337,0,0
+review_010457,user_03219,movie_0582,1,2025-08-13,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.284,0,0
+review_010505,user_07616,movie_0198,2,2024-08-24,Smart TV,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.02,0,0
+review_010632,user_03733,movie_0761,2,2024-01-15,Smart TV,True,0.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.221,0,0
+review_010747,user_08580,movie_0374,1,2025-02-07,Smart TV,False,4.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_010782,user_00188,movie_0516,1,2024-11-23,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.171,1,1
+review_010786,user_04058,movie_0032,2,2025-12-23,Mobile,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.237,0,0
+review_010796,user_07695,movie_0536,2,2025-05-08,Mobile,True,0.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.252,0,0
+review_010806,user_00341,movie_0557,2,2025-01-02,Tablet,False,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.077,1,1
+review_010886,user_05181,movie_0738,2,2025-09-10,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.333,1,1
+review_010956,user_01762,movie_0084,2,2024-10-11,Laptop,True,3.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.291,0,0
+review_010966,user_02479,movie_0429,2,2025-12-24,Mobile,False,0.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.049,0,0
+review_011171,user_05366,movie_0820,2,2025-12-22,Smart TV,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.323,0,0
+review_011269,user_09165,movie_0606,1,2024-12-13,Tablet,True,5.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.037,0,0
+review_011325,user_02858,movie_0349,1,2024-02-22,Laptop,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.074,1,1
+review_011436,user_04103,movie_0708,1,2024-01-06,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.221,1,1
+review_011540,user_05488,movie_0397,2,2024-07-18,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.27,1,1
+review_011552,user_01599,movie_0797,1,2024-11-29,Mobile,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.209,0,0
+review_011562,user_00937,movie_0671,1,2025-11-26,Laptop,False,2.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.262,0,0
+review_011588,user_03505,movie_0822,2,2025-12-01,Mobile,False,2.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_011629,user_02480,movie_0339,2,2025-02-21,Mobile,True,3.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.221,0,0
+review_011697,user_02162,movie_0160,2,2025-07-09,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.005,1,1
+review_011703,user_03756,movie_0706,2,2024-05-24,Smart TV,True,6.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.292,0,0
+review_011781,user_05175,movie_0758,1,2024-10-12,Tablet,True,7.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.05,0,0
+review_011787,user_04948,movie_0963,2,2024-06-30,Mobile,True,0.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.087,0,0
+review_011837,user_00930,movie_0196,2,2025-04-22,Smart TV,True,1.0,2.0,"Boring storyline, couldn't finish watching.",negative,0.238,0,0
+review_011891,user_04910,movie_0475,2,2025-04-27,Laptop,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.217,0,0
+review_011986,user_02111,movie_0561,1,2024-01-24,Smart TV,True,3.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.273,0,0
+review_012063,user_00235,movie_0961,2,2024-08-26,Smart TV,False,1.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.312,0,0
+review_012198,user_08686,movie_0217,2,2025-12-26,Tablet,True,3.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.109,0,0
+review_012212,user_00176,movie_0066,2,2025-05-29,Tablet,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.185,0,0
+review_012297,user_07940,movie_0616,2,2024-07-10,Tablet,False,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.293,0,0
+review_012375,user_06471,movie_0425,1,2025-01-15,Mobile,True,6.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.039,0,0
+review_012422,user_07122,movie_0178,2,2024-05-30,Tablet,True,5.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.054,0,0
+review_012540,user_00191,movie_0570,1,2025-11-15,Tablet,True,4.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.006,0,0
+review_012592,user_02289,movie_0157,2,2024-04-03,Smart TV,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.065,0,0
+review_012625,user_04838,movie_0675,2,2024-07-12,Laptop,False,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.062,0,0
+review_012669,user_07412,movie_0041,2,2025-05-08,Smart TV,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.357,0,0
+review_012774,user_02092,movie_0033,1,2024-04-08,Smart TV,True,4.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.02,0,0
+review_012865,user_05554,movie_0977,2,2024-02-22,Tablet,True,2.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_012895,user_07885,movie_0384,2,2024-09-16,Tablet,True,5.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.325,0,0
+review_012905,user_03212,movie_0060,1,2024-05-28,Mobile,True,0.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.252,0,0
+review_013020,user_07180,movie_0974,1,2024-08-05,Tablet,True,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.197,0,0
+review_013152,user_06950,movie_0291,1,2025-10-08,Laptop,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.367,0,0
+review_013257,user_08386,movie_0951,2,2024-11-17,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_013343,user_06852,movie_0105,2,2025-10-27,Tablet,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.055,0,0
+review_013414,user_04484,movie_0732,1,2025-05-25,Tablet,False,1.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.319,0,0
+review_013471,user_09573,movie_0984,1,2024-07-21,Smart TV,True,4.0,4.0,"Boring storyline, couldn't finish watching.",negative,0.097,0,0
+review_013513,user_01486,movie_0563,2,2024-05-19,Smart TV,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.204,0,0
+review_013536,user_03230,movie_0115,1,2024-01-30,Smart TV,True,3.0,10.0,"Boring storyline, couldn't finish watching.",negative,0.117,0,0
+review_013568,user_00961,movie_0974,1,2025-08-04,Mobile,False,5.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.361,0,0
+review_013602,user_09955,movie_0886,2,2025-08-27,Smart TV,False,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.239,1,1
+review_013612,user_01917,movie_0619,2,2025-05-17,Mobile,True,2.0,8.0,"Boring storyline, couldn't finish watching.",negative,0.113,0,0
+review_013718,user_00536,movie_0390,1,2025-08-25,Mobile,True,3.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.109,0,0
+review_013756,user_04914,movie_0846,2,2024-11-28,Laptop,True,6.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.314,0,0
+review_013918,user_02824,movie_0405,2,2025-08-01,Tablet,True,2.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.362,0,0
+review_014041,user_03916,movie_0722,2,2024-08-27,Smart TV,False,2.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.07,0,0
+review_014093,user_01568,movie_0300,1,2024-01-23,Mobile,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.008,0,0
+review_014175,user_01754,movie_0789,2,2025-12-09,Laptop,False,3.0,10.0,"Boring storyline, couldn't finish watching.",negative,0.114,0,0
+review_014240,user_02527,movie_0095,2,2025-08-15,Tablet,False,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.156,0,0
+review_014256,user_09430,movie_0970,1,2025-09-14,Tablet,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.387,1,1
+review_014551,user_04038,movie_0223,2,2025-02-25,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.076,1,1
+review_014606,user_07911,movie_0257,2,2024-12-26,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.231,1,1
+review_014633,user_07937,movie_0067,1,2025-12-27,Mobile,True,1.0,7.0,"Boring storyline, couldn't finish watching.",negative,0.251,0,0
+review_014821,user_04989,movie_0857,2,2025-07-30,Mobile,True,0.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.266,0,0
+review_014872,user_07066,movie_0636,2,2024-01-09,Mobile,False,1.0,3.0,"Boring storyline, couldn't finish watching.",negative,0.195,0,0
+review_014979,user_09568,movie_0357,1,2025-02-07,Mobile,True,2.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.032,0,0
+review_014982,user_09754,movie_0527,1,2025-02-11,Mobile,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.211,1,1
+review_012422,user_07122,movie_0178,2,2024-05-30,Tablet,True,5.0,6.0,"Boring storyline, couldn't finish watching.",negative,0.054,0,0
+review_004991,user_01273,movie_0595,2,2024-10-09,Tablet,True,5.0,9.0,"Boring storyline, couldn't finish watching.",negative,0.117,0,0
+review_005290,user_00961,movie_0017,2,2025-04-07,Smart TV,True,4.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.262,0,0
+review_001262,user_09879,movie_0865,1,2025-10-27,Smart TV,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.278,0,0
+review_007046,user_08938,movie_0341,2,2025-02-12,Smart TV,True,0.0,0.0,"Boring storyline, couldn't finish watching.",negative,0.195,1,1
+review_010786,user_04058,movie_0032,2,2025-12-23,Mobile,True,3.0,5.0,"Boring storyline, couldn't finish watching.",negative,0.237,0,0
