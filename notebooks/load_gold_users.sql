@@ -1,0 +1,51 @@
+INSERT INTO gold.users(
+	user_id,
+	first_name,
+	last_name,
+	age,
+	gender,
+	country,
+	state_province,
+	city,
+	email,
+	email_domain,
+	subscription_plan,
+	subscription_start_date,
+	primary_device,
+	monthly_spend,
+	household_size,
+	created_at_date,
+	created_at_time,
+	is_active,
+	is_age_missing,
+	is_gender_missing,
+	is_monthly_spend_missing,
+	is_household_size_missing
+)
+SELECT
+	user_id,
+	first_name,
+	last_name,
+	age,
+	gender,
+	CASE
+		WHEN country = 'USA' THEN 'United States'
+		ELSE country
+	END as country,
+	state_province,
+	city,
+	email,
+	email_domain,
+	subscription_plan,
+	subscription_start_date,
+	primary_device,
+	monthly_spend,
+	household_size,
+	CAST(LEFT(created_at,10) AS DATE) AS created_at_date,
+	SUBSTRING(created_at, 11, LEN(created_at)) AS created_at_time,
+	is_active,
+	is_age_missing,
+	is_gender_missing,
+	is_monthly_spend_missing,
+	is_household_size_missing
+FROM silver.users;
