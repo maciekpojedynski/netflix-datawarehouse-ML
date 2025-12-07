@@ -15,5 +15,6 @@ CREATE TABLE gold.reviews(
 	total_votes INT,
 	is_helpful_votes_missing BIT,
 	is_total_votes_missing BIT,
-	is_verified_watch BIT
+	is_verified_watch BIT,
+	loaddate DATETIME DEFAULT GETDATE()
 )
