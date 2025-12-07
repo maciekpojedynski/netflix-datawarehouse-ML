@@ -1,0 +1,19 @@
+IF OBJECT_ID('gold.reviews','U') IS NOT NULL
+	DROP TABLE gold.reviews;
+CREATE TABLE gold.reviews(
+	ReviewKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	review_id NVARCHAR(14),
+	user_id NVARCHAR(255),
+	movie_id NVARCHAR(10),
+	rating NVARCHAR(1),
+	device_type NVARCHAR(255),
+	review_date DATE,
+	review_text NVARCHAR(255),
+	sentiment NVARCHAR(255),
+	sentiment_score DECIMAL(12,2),
+	helpful_votes INT,
+	total_votes INT,
+	is_helpful_votes_missing BIT,
+	is_total_votes_missing BIT,
+	is_verified_watch BIT
+)
