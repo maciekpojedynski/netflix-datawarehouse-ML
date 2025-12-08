@@ -5,8 +5,7 @@ IF NOT EXISTS(SELECT 1 FROM sys.schemas WHERE name = 'gold')
 IF OBJECT_ID('gold.movies','U') IS NOT NULL
 	DROP TABLE gold.movies;
 CREATE TABLE gold.movies(
-	Moviekey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-	movie_id NVARCHAR(10),
+	movie_id NVARCHAR(10) NOT NULL PRIMARY KEY,
 	title NVARCHAR(255),
 	content_type NVARCHAR(255),
 	genre_primary NVARCHAR(255),
