@@ -1,7 +1,6 @@
 IF OBJECT_ID('gold.users','U') IS NOT NULL
 	DROP TABLE gold.users;
 CREATE TABLE gold.users(
-	Userkey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
 	user_id NVARCHAR(255),
 	first_name NVARCHAR(255),
 	last_name NVARCHAR(255),
