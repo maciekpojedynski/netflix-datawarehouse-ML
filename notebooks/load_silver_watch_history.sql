@@ -1,4 +1,5 @@
 INSERT INTO silver.watch_history(
+	licznik,
 	session_id,
     user_id,
     movie_id,
@@ -17,6 +18,7 @@ INSERT INTO silver.watch_history(
 	watched_more_then_once
 )
 SELECT 
+	ROW_NUMBER() OVER(PARTITION BY session_id ORDER BY session_id) as licznik,
 	w.session_id,
 	w.user_id,
 	w.movie_id,
