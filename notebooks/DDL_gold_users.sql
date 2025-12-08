@@ -1,7 +1,7 @@
 IF OBJECT_ID('gold.users','U') IS NOT NULL
 	DROP TABLE gold.users;
 CREATE TABLE gold.users(
-	user_id NVARCHAR(255),
+	user_id NVARCHAR(255) NOT NULL PRIMARY KEY,
 	first_name NVARCHAR(255),
 	last_name NVARCHAR(255),
 	age INT,
