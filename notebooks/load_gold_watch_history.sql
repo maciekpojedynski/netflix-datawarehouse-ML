@@ -1,4 +1,5 @@
 INSERT INTO gold.watch_history(
+	session_id,
 	user_id,
 	movie_id,
 	device_type,
@@ -15,6 +16,7 @@ INSERT INTO gold.watch_history(
 	is_watch_duration_minutes_missing
 )
 SELECT 
+	session_id,
 	user_id,
 	movie_id,
 	device_type,
