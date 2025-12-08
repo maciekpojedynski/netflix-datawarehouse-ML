@@ -1,6 +1,7 @@
 IF OBJECT_ID('silver.watch_history','U') IS NOT NULL
     DROP TABLE silver.watch_history;
 CREATE TABLE silver.watch_history(
+	licznik INT,
     session_id NVARCHAR(255),
     user_id NVARCHAR(255),
     movie_id NVARCHAR(255),
