@@ -1,0 +1,27 @@
+INSERT INTO gold.logs_recommendation(
+	recommendation_id,
+	user_id,
+	movie_id,
+	recommendation_type,
+	device_type,
+	recommendation_score,
+	position_in_list,
+	recommendation_date,
+	time_of_day,
+	was_clicked,
+	algorithm_version
+)
+SELECT 
+	recommendation_id,
+	user_id,
+	movie_id,
+	recommendation_type,
+	device_type,
+	recommendation_score,
+	position_in_list,
+	recommendation_date,
+	time_of_day,
+	was_clicked,
+	algorithm_version
+FROM
+	silver.logs_recommendation;
