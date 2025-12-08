@@ -20,7 +20,7 @@ SELECT
 	movie_id,
 	rating,
 	device_type,
-	CAST(review_date AS DATE),
+	review_date,
 	review_text,
 	sentiment,
 	sentiment_score,
@@ -29,6 +29,25 @@ SELECT
 	is_helpful_votes_missing,
 	is_total_votes_missing,
 	is_verified_watch
-FROM silver.reviews
-WHERE sentiment IN('positive','negative','neutral') AND
-device_type IN('Tablet','Laptop','Mobile','Smart TV');
+FROM(
+	SELECT 
+		ROW_NUMBER() OVER(PARTITION BY review_id ORDER BY review_id) as licznik,
+		review_id,
+		user_id,
+		movie_id,
+		rating,
+		device_type,
+		CAST(review_date AS DATE) as review_date,
+		review_text,
+		sentiment,
+		sentiment_score,
+		helpful_votes,
+		total_votes,
+		is_helpful_votes_missing,
+		is_total_votes_missing,
+		is_verified_watch
+	FROM silver.reviews
+	WHERE sentiment IN('positive','negative','neutral') AND
+	device_type IN('Tablet','Laptop','Mobile','Smart TV')
+	)t
+WHERE licznik = 1;
