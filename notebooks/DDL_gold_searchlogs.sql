@@ -1,8 +1,7 @@
 IF OBJECT_ID('gold.search_logs') IS NOT NULL
 	DROP TABLE gold.search_logs;
 CREATE TABLE gold.search_logs(
-	SearchlogsKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-	search_id NVARCHAR(14),
+	search_id NVARCHAR(14) NOT NULL PRIMARY KEY,
 	user_id NVARCHAR(255),
 	device_type NVARCHAR(255),
 	search_query NVARCHAR(255),
