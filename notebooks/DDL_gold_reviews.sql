@@ -1,8 +1,7 @@
 IF OBJECT_ID('gold.reviews','U') IS NOT NULL
 	DROP TABLE gold.reviews;
 CREATE TABLE gold.reviews(
-	ReviewKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-	review_id NVARCHAR(14),
+	review_id NVARCHAR(14) NOT NULL PRIMARY KEY,
 	user_id NVARCHAR(255),
 	movie_id NVARCHAR(10),
 	rating NVARCHAR(1),
