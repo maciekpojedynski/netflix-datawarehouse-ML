@@ -34,4 +34,5 @@ SELECT
 	is_progress_percentage_missing,
 	is_user_rating_missing,
 	is_watch_duration_minutes_missing
-FROM silver.watch_history;
+FROM silver.watch_history
+WHERE licznik = 1;
