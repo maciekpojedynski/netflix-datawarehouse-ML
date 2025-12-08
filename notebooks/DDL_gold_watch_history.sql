@@ -1,8 +1,7 @@
 IF OBJECT_ID('gold.watch_history','U') IS NOT NULL
 	DROP TABLE gold.watch_history;
 CREATE TABLE gold.watch_history(
-	sessionkey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-	session_id NVARCHAR(255),
+	session_id NVARCHAR(255) NOT NULL PRIMARY KEY,
 	user_id NVARCHAR(255),
 	movie_id NVARCHAR(255),
 	device_type NVARCHAR(255),
