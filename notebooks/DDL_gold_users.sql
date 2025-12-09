@@ -19,9 +19,5 @@ CREATE TABLE gold.users(
 	created_at_date DATE,
 	created_at_time NVARCHAR(255),
 	is_active NVARCHAR(255),
-	is_age_missing BIT,
-	is_gender_missing BIT,
-	is_monthly_spend_missing BIT,
-	is_household_size_missing BIT,
 	LoadDate DATETIME DEFAULT GETDATE()
 )
