@@ -13,8 +13,5 @@ CREATE TABLE gold.watch_history(
 	user_rating INT,
 	watched_more_then_once BIT,
 	is_download BIT,
-	is_progress_percentage_missing BIT,
-	is_user_rating_missing BIT,
-	is_watch_duration_minutes_missing BIT,
 	loaddate DATE DEFAULT GETDATE()
 )
