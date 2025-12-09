@@ -16,11 +16,7 @@ INSERT INTO gold.users(
 	household_size,
 	created_at_date,
 	created_at_time,
-	is_active,
-	is_age_missing,
-	is_gender_missing,
-	is_monthly_spend_missing,
-	is_household_size_missing
+	is_active
 )
 SELECT
 	user_id,
@@ -43,9 +39,5 @@ SELECT
 	household_size,
 	CAST(LEFT(created_at,10) AS DATE) AS created_at_date,
 	SUBSTRING(created_at, 11, LEN(created_at)) AS created_at_time,
-	is_active,
-	is_age_missing,
-	is_gender_missing,
-	is_monthly_spend_missing,
-	is_household_size_missing
+	is_active
 FROM silver.users;
