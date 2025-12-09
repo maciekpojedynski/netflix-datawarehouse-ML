@@ -12,8 +12,5 @@ CREATE TABLE gold.reviews(
 	sentiment_score DECIMAL(12,2),
 	helpful_votes INT,
 	total_votes INT,
-	is_helpful_votes_missing BIT,
-	is_total_votes_missing BIT,
-	is_verified_watch BIT,
 	loaddate DATETIME DEFAULT GETDATE()
 )
