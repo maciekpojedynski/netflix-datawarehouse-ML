@@ -8,9 +8,7 @@ INSERT INTO gold.search_logs(
 	results_returned,
 	had_typo,
 	used_filters,
-	location_country,
-	is_clicked_result_position_missing,
-	is_search_duration_seconds_missing
+	location_country
 )
 SELECT
 	search_id,
@@ -31,7 +29,5 @@ SELECT
 	CASE 
 		WHEN location_country = 'USA' THEN 'United States'
 		ELSE location_country
-	END AS location_country,
-	is_clicked_result_position_missing,
-	is_search_duration_seconds_missing
+	END AS location_country
 FROM silver.search_logs;
