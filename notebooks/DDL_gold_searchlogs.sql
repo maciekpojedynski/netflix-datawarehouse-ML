@@ -11,7 +11,5 @@ CREATE TABLE gold.search_logs(
 	had_typo BIT,
 	used_filters BIT,
 	location_country NVARCHAR(255),
-	is_clicked_result_position_missing BIT,
-	is_search_duration_seconds_missing BIT,
 	loaddate DATETIME DEFAULT GETDATE()
 )
