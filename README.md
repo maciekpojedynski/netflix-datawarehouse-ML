@@ -128,7 +128,8 @@ The repository is logically organized to reflect the data lifecycle in a Data En
 - tests
   - review_numeric.sql
   - review_strings.sql
-
+## Data Relations
+<img width="1176" height="606" alt="image" src="documents/DataModel.jpg" /> 
 ## 📖 Data Dictionary
 
 The complete documentation for every column, its data type, and business purpose can be found in the file: **`data_catalog.md`**
