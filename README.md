@@ -1,7 +1,5 @@
 # 🎥 Netflix Data Warehouse & ML Readiness Project
 
-## 🧑‍💻 Author: [Insert Your Name and Surname]
-
 ## 🎯 Project Overview and Key Goals
 
 This project implements a **comprehensive Data Warehouse (DWH)** based on Netflix movie data, user interaction logs, and reviews. The core objective was to establish a scalable, three-tiered **Medallion Architecture** , prepared to feed both Business Intelligence (OLAP) analytics and Machine Learning models.
