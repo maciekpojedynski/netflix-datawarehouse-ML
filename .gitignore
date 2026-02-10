@@ -1,0 +1,22 @@
+# --- Pythonowe śmieci (pliki tymczasowe) ---
+__pycache__/
+*.pyc
+
+# --- Notebookowe śmieci ---
+.ipynb_checkpoints/
+
+# --- DANE (To jest kluczowe dla Ciebie!) ---
+# Ignorujemy zawartość folderów z danymi, bo są za duże
+data/bronze/*
+data/silver/*
+data/gold/*
+
+# Ale! Chcemy zachować strukturę folderów w repozytorium
+# (To taki trik: ignoruj wszystko, oprócz pliku .gitkeep)
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
+
+# --- Konfiguracja i Sekrety ---
+.env
+.DS_Store
